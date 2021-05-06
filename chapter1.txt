@@ -1,1 +1,2 @@
-"Hello, How are you?", asked Anil to Rani
+"Hello, How are you?", asked Anil to Rani. 
+"I'm fine until the holiday ends.",replied Rani.
